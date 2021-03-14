@@ -1,4 +1,4 @@
-n = float(input('quantos reais voce tem? '))
+n = float(input('quantos reais voce tem? R$ '))
 dolares = n / 3.27
 print(type(dolares))
-print('voce pode comprar {:f=.3} dólares' .format(dolares))
+print('com R${:.2f} voce pode comprar ${:.2f}' .format(n, dolares))
