@@ -1,2 +1,2 @@
-import emoji
-print(emoji.emojize('ola, mundo :earth_americas:', use_aliases=True))
+import math
+raiz = math.trunc
