@@ -1,4 +1,5 @@
-# ler um numero de 0 a 9999 e mostrar cada um dos digitos separados
+# ler um numero de 0 a 9999 e
+# mostrar cada um dos digitos separados
 
 num = str(input('entre com um numero de 0 a 9999 '))
 
